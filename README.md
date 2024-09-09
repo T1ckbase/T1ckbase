@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="https://github.com/T1ckbase/T1ckbase/assets/146760065/3ed2e2d3-0f51-4f74-ae4f-94fc5a1ca71e"/>
-</p>
+<img src="https://raw.githubusercontent.com/T1ckbase/T1ckbase/66828c9ba30fa5c5d722d4ce33ebf1813801be94/sp_a2_core.svg" width="100%" height="569.25px" />
+
