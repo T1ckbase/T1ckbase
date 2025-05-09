@@ -107,4 +107,4 @@ Wanna play Minesweeper?
   </tr>
 </table>
 
-- The counter timer don't work on Safari.
+- The counter and timer don't work on Safari.
