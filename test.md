@@ -1,6 +1,11 @@
 <table id="toc">
   <tr>
     <td align="center">
+      <a href="https://t1ckbase-minesweeper.hf.space/game/reset"><img src="https://t1ckbase-minesweeper.hf.space/game/status" width="64px" height="64px" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://t1ckbase-minesweeper.hf.space/cell/0/0/click"><img src="https://t1ckbase-minesweeper.hf.space/cell/0/0/image" width="32px" height="32px" /></a>
       <a href="https://t1ckbase-minesweeper.hf.space/cell/0/1/click"><img src="https://t1ckbase-minesweeper.hf.space/cell/0/1/image" width="32px" height="32px" /></a>
       <a href="https://t1ckbase-minesweeper.hf.space/cell/0/2/click"><img src="https://t1ckbase-minesweeper.hf.space/cell/0/2/image" width="32px" height="32px" /></a>
