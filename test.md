@@ -1,9 +1,10 @@
+<a name="minesweeper"></a>
 <table id="toc">
   <tr>
     <td align="center">
-      <img src="https://t1ckbase-minesweeper.hf.space/mines/count" height="48px" />
+      <img src="https://t1ckbase-minesweeper.hf.space/mines/count" height="48px" align="left" />
       <a href="https://t1ckbase-minesweeper.hf.space/game/reset"><img src="https://t1ckbase-minesweeper.hf.space/game/status" width="48px" height="48px" /></a>
-      <img src="https://t1ckbase-minesweeper.hf.space/mines/count" height="48px" />
+      <img src="https://t1ckbase-minesweeper.hf.space/timer" height="48px" align="right" />
     </td>
   </tr>
   <tr>
