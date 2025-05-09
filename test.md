@@ -1,4 +1,4 @@
-[](#minesweeper)
+<a name="minesweeper"></a>
 <table id="toc">
   <tr>
     <td align="center">
