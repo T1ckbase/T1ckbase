@@ -1,7 +1,7 @@
 <table id="toc">
   <tr>
     <td align="center">
-      <a href="https://t1ckbase-minesweeper.hf.space/game/reset"><img src="https://t1ckbase-minesweeper.hf.space/game/status" width="64px" height="64px" /></a>
+      <a href="https://t1ckbase-minesweeper.hf.space/game/reset"><img src="https://t1ckbase-minesweeper.hf.space/game/status" width="48px" height="48px" /></a>
     </td>
   </tr>
   <tr>
