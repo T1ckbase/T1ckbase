@@ -1,6 +1,6 @@
+<a name="minesweeper"></a>
 Wanna play Minesweeper?
 
-<a name="minesweeper"></a>
 <table id="toc">
   <tr>
     <td align="center">
