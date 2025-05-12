@@ -1,5 +1,5 @@
 <a name="minesweeper"></a>
-Wanna play Minesweeper?
+<samp>Wanna play Minesweeper?</samp>
 
 <table id="toc">
   <tr>
