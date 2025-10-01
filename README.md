@@ -8,4 +8,5 @@
   </ul>
 </div>
 
-![balls](https://github.com/T1ckbase/language-balls/raw/main/out/balls.svg)
+<!-- ![balls](https://github.com/T1ckbase/language-balls/raw/main/out/balls.svg) -->
+![balls](https://raw.githubusercontent.com/T1ckbase/language-balls/main/out/balls.svg)
