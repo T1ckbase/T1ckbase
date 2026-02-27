@@ -5,5 +5,5 @@
 
 ## Projects
 
-[Pure CSS MNIST](https://t1ckbase.github.io/pure-css-mnist/): An MNIST demo that runs entirely in CSS.
-[duckduckgo-mcp](https://github.com/T1ckbase/duckduckgo-mcp/): A MCP server for DuckDuckGo HTML search.
+- [Pure CSS MNIST](https://t1ckbase.github.io/pure-css-mnist/): An MNIST demo that runs entirely in CSS.
+- [duckduckgo-mcp](https://github.com/T1ckbase/duckduckgo-mcp/): A MCP server for DuckDuckGo HTML search.
