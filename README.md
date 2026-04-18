@@ -1,3 +1,4 @@
+
 <div align="center">
-  <img width="248" height="200" alt="jarvis, pull the trigger" src="https://github.com/user-attachments/assets/28a7c9a4-c40b-4a75-bb12-c44bbdb3838f" />
+  <img width="248" height="200" alt="jarvis, more alcohol" src="https://github.com/user-attachments/assets/257b30d2-bd8a-4111-b2cd-74c0dfe77d42" />
 </div>
