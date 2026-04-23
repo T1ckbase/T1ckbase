@@ -1,4 +1,4 @@
-<img src="./top.svg" width="100px" alt="top" />
+<img src="https://raw.githubusercontent.com/T1ckbase/T1ckbase/main/top.svg" width="100px" alt="top" />
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -10,4 +10,4 @@
   </ul>
 </div>
 
-<img src="./bottom.svg" width="100px" alt="bottom" />
+<img src="https://raw.githubusercontent.com/T1ckbase/T1ckbase/main/bottom.svg" width="100px" alt="bottom" />
