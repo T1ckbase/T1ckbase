@@ -1,13 +1,1 @@
-<img src="https://raw.githubusercontent.com/T1ckbase/T1ckbase/main/top.svg" width="100px" alt="top" />
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Hello, World!
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-<img src="https://raw.githubusercontent.com/T1ckbase/T1ckbase/main/bottom.svg" width="100px" alt="bottom" />
+<img src="https://raw.githubusercontent.com/T1ckbase/T1ckbase/main/turnstile.svg" width="400px" alt="turnstile" />
